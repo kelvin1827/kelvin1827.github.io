@@ -1,0 +1,85 @@
+/*Main CSS File*/
+body {
+    font-size: 16px;
+    font-family: 'Heiti', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.intro {
+    margin: 0em 2em 0em 2em;
+}
+
+.hdr {
+    background-color: cadetblue;
+    color: beige;
+    padding: 0.01em 1em 0.01em 1em;
+}
+
+code {
+    font-family: 'Heiti', 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+    border-radius: 0.2em;
+    padding-left: .3em;
+    padding-right: .3em;
+    color: brown;
+    font-weight: bolder;
+}
+
+.main_txt {
+    font-size: 1.7em;
+    text-align: center;
+}
+
+div.main_div{
+    background-color: antiquewhite;
+    border: solid 0.1em white;
+    margin: 1em 1em 1em 1em;
+    border-radius: .8em .8em .8em .8em;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+    border-radius: 0.2em;
+    padding-left: .3em;
+    padding-right: .3em;
+}
+
+.kw {
+    color: brown;
+    font-weight: bolder;
+}
+
+.kw:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.cdit{
+    color: burlywood;
+    font-weight: bold;
+}
+
+.cdit:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.ftr {
+    position: absolute;
+    bottom: 1em;
+}
+
+.bkbtn {
+    left: 1em;
+}
+
+.cpyrt {
+    right: 1em;
+    color: black;
+    background-color: white;
+    font-weight: bolder;
+}

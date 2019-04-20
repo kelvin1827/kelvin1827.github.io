@@ -1,0 +1,10 @@
+.blkqt {
+    font-style: italic;
+    font-family: monospace;
+    background-color: lightgray;
+    color: darkblue;
+    text-align: left;
+    padding: .5em 0 .5em 2em;
+    border-left: darkgray solid .5em;
+    margin: 0.5em 0.5em 0.5em 0.5em;
+}
