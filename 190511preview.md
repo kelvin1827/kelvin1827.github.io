@@ -19,6 +19,8 @@ by `LIUKAI` at `Apirl` `2019`
 
 在种种效率工具当中，<a href="https://www.office.com/" target="_blank">Office办公软件</a>可谓是最熟悉的陌生人，大多数人都是每天接触却又不太了解，
 
+<img src="./images/office.jpg" alt="office suite">
+
 ---
 
 ## 目的
