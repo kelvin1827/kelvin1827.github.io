@@ -6,10 +6,10 @@ by `LIUKAI` at `Apirl` `2019`
 
 ## 背景
 
-![丰田章男社长](http://imagecn.gasgoo.com/moblogo/News/UEditor/image/20171129/6364754013874103067416484.jpg)
-
 > 在前所未有的发展速度和规模变化下，整个汽车行业都面临着百年未有之大变局。不是输赢，而是<a href="http://auto.gasgoo.com/News/2017/11/2908160216270028483C302.shtml" target="_blank">生死攸关</a>。
 > ——丰田 章男（丰田汽车公司 社长）
+
+![丰田章男社长](http://imagecn.gasgoo.com/moblogo/News/UEditor/image/20171129/6364754013874103067416484.jpg)
 
 在经历了28年的高速增长后，中国汽车市场在2018年出现了首次<a href="http://auto.gasgoo.com/News/2019/01/100146134613I70082831C302.shtml" target="_blank">销量下滑</a>。
 
