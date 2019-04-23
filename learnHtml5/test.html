@@ -4,8 +4,26 @@
         <meta charset="utf-8">
         <title>A test page for html5 learning</title>
         <link rel="stylesheet" href="../css/main.css">
+        <script>
+            function makePhrases() {
+                var words1 = ["24/7", "multi-Tier", "30,00 foot", "B-to-B", "win-win"];
+                var words2 = ["empowered", "value-added", "oriented", "focused", "aligned"];
+                var words3 = ["process", "solution", "tipping-point", "strategy", "vision"];
+
+                var rand1 = Math.floor(Math.random() * words1.length);
+                var rand2 = Math.floor(Math.random() * words2.length);
+                var rand3 = Math.floor(Math.random() * words3.length);
+
+                var phrases = words1[rand1] + " " + words2[rand2] + " " + words3[rand3];
+                var phrasesElement = document.getElementById("phrase");
+                phrasesElement.innerHTML = phrases;
+            }
+            window.onload = makePhrases;
+        </script>
     </head>
     <body>
         <h1>Hello, Html5.</h1>
+        <h2>Phrase-o-Matic says:</h2>
+        <p id="phrase"></p>
     </body>
 </html>
