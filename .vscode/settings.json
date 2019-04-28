@@ -1,4 +1,5 @@
 {
     "editor.tabSize": 2,
-    "editor.fontFamily": "FuraCode Nerd Font, Menlo, Monaco, 'Courier New', monospace"
+    "editor.fontFamily": "FuraCode Nerd Font, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14
 }
