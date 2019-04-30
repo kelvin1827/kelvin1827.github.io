@@ -1,0 +1,14 @@
+body {
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#totalSold {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.2em;
+  font-weight: bolder;
+}
+
+code {
+  color: blue;
+}
