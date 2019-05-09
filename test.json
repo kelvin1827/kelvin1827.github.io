@@ -1,0 +1,15 @@
+{"KL2020":
+  {
+    "SuppCode":"2020",
+    "SuppName":"X Automotive",
+    "Permit":true,
+    "untilDate":"2019/10/11"
+  },
+  "KL2021":
+  {
+    "SuppCode":"2021",
+    "SuppName":"Y Automotive",
+    "Permit":false,
+    "untilDate":""
+  }
+}
