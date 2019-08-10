@@ -1,5 +1,5 @@
 {
     "editor.tabSize": 2,
-    "editor.fontSize": 15,
-    "editor.fontFamily": "'Courier New', monospace"
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'FiraCode', Menlo, Monaco, 'Courier New', monospace"
 }
